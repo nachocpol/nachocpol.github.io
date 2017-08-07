@@ -17,3 +17,19 @@ h1,h2,h3
 	text-align: justify;
 	text-justify: inter-word; /* IE */
 }
+
+.section-titles
+{
+	background-color: #555;
+	text-align: center;
+	padding: 1px 0px 1px 0px;
+	margin:auto;
+	width: 75%;
+}
+
+.section
+{
+	padding: 16px 0px 16px 0px; 
+	margin:auto;
+	width: 75%;
+}
